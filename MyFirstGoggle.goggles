@@ -2,9 +2,8 @@
 ! description: Lower the prioity of eBay, Pinterest and Yahoo
 ! pubic: false
 ! author: hotairballoon
-http://*.ebay.com/$downgrade=6
-https://*.ebay.com/$downgrade=6
-http://*.yahoo.com/$downgrade=8
-https://*.yahoo.com/$downgrade=8
-http://*.pinterest.com/$downgrade=7
-https://*.pinterest.com/$downgrade=7
+$downgrade=6,site=ebay.com
+$downgrade=8,site=yahoo.com
+$downgrade=7,site=pinterest.com
+
+
