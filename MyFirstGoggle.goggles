@@ -11,6 +11,12 @@ $downrank=5,site=amazon.se
 $downrank=5,site=amazon.jp
 $downrank=5,site=amazon.ca
 $downrank=8,site=youtube.com
+$downrank=5,site=google.com
+$downrank=5,site=billibilli.cn
+$downrank=5,site=zihua.cn
+$downrank=5,site=baidu.cn
+$boost=2,site=cn
+
 
 
 
