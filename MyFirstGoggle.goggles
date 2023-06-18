@@ -17,7 +17,7 @@ $downrank=5,site=zihua.cn
 $downrank=5,site=baidu.cn
 $boost=3,site=cn
 $discard,site=dictionary.com
-$iscard,site=urbandictionary.com
+$discard,site=urbandictionary.com
 $discard,site=merriam-webster.com
 $discard,site=wikipedia.org
 
