@@ -22,8 +22,8 @@ $discard,site=merriam-webster.com
 $discard,site=wikipedia.org
 $discard,site=wikipedia.org
 $discard,site=wiktionary.org
-$discard,site=britanica.com
-$discard,site=cambridge.comk
+$discard,site=britannica.com
+$discard,site=cambridge.org
 
 
 
