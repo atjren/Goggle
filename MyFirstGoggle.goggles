@@ -21,6 +21,8 @@ $discard,site=urbandictionary.com
 $discard,site=merriam-webster.com
 $discard,site=wikipedia.org
 $discard,site=wikipedia.org
+$discard,site=wiktionary.com
+$discard,site=brittanica.com
 
 
 
