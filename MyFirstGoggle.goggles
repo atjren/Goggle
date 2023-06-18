@@ -15,8 +15,11 @@ $downrank=5,site=google.com
 $downrank=5,site=billibilli.cn
 $downrank=5,site=zihua.cn
 $downrank=5,site=baidu.cn
-$boost=4,site=cn
-!The last line boosted some .ch sites?
+$boost=3,site=cn
+$discard,site=dictionary.com
+$iscard,site=urbandictionary.com
+$discard,site=merriam-webster.com
+$discard,site=wikipedia.org
 
 
 
