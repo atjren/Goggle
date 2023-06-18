@@ -5,7 +5,7 @@
 $downrank=6,site=ebay.com
 $downrank=8,site=yahoo.com
 $downrank=7,site=pinterest.com
-$downrank=5,site=amazon.com
+!$downrank=5,site=amazon.com
 
 
 
