@@ -1,9 +1,11 @@
 ! name: My First Goggle
-! description: Lower the prioity of eBay, Pinterest and Yahoo
+! description: Lower the prioity of eBay, amazon, Pinterest and Yahoo
 ! pubic: false
 ! author: hotairballoon
 $downrank=6,site=ebay.com
 $downrank=8,site=yahoo.com
 $downrank=7,site=pinterest.com
+$downrank=5,site=amazon.com
+
 
 
