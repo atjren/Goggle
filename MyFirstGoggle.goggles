@@ -10,7 +10,8 @@ $discard,site=amazon.de
 $discard,site=amazon.se
 $discard,site=amazon.co.jp
 $discard,site=amazon.ca
-$downrank=8,site=youtube.com
+$discard,site=amazon.in
+$discard,site=youtube.com
 $downrank=5,site=google.com
 $downrank=5,site=billibilli.cn
 $downrank=5,site=zihua.cn
@@ -22,10 +23,14 @@ $discard,site=urbandictionary.com
 $discard,site=merriam-webster.com
 $discard,site=wikipedia.org
 $discard,site=wikipedia.org
+$discard,site=thesaurus.com
 $discard,site=wiktionary.org
 $discard,site=britannica.com
 $discard,site=cambridge.org
 $discard,site=collinsdictionary.com
+$discard,site=vocabulary.com
+$discard,site=yourdictionary.com
+$didcard,site=thefreedictionary.com
 $discard,site=amazon.fr
 $discard,site=amazon.co.uk
 $discard,site=amazon.cn
