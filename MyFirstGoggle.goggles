@@ -12,13 +12,7 @@ $discard,site=amazon.co.jp
 $discard,site=amazon.ca
 $discard,site=amazon.in
 $discard,site=youtube.com 
-$discard,site=amazon.de
-$discard,site=amazon.se
-$discard,site=amazon.co.jp
-$discard,site=amazon.ca
-$downrank=8,site=youtube.com
-$discard,site=amazon.in
-$downrank=5,site=youtube.com
+
 
 $downrank=5,site=google.com
 $downrank=5,site=billibilli.cn
