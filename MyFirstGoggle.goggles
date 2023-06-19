@@ -12,7 +12,7 @@ $discard,site=amazon.co.jp
 $discard,site=amazon.ca
 $discard,site=amazon.in
 $discard,site=youtube.com
-$downrank=5,site=google.com
+!$downrank=5,site=google.com
 $downrank=5,site=billibilli.cn
 $downrank=5,site=zihua.cn
 $downrank=5,site=baidu.cn
