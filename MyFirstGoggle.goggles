@@ -14,12 +14,25 @@ $discard,site=amazon.in
 $discard,site=youtube.com 
 
 
+$downrank=5,site=google.com
+$downrank=5,site=billibilli.cn
+$downrank=5,site=zihua.cn
+$downrank=5,site=baidu.cn
+$discard,site=urbandictionary.com
+$discard,site=merriam-webster.com
+$discard,site=wikipedia.org
+$discard,site=wiktionary.org
+$discard,site=thesaurus.com
+$discard,site=britannica.com
+$discard,site=cambridge.org
+$discard,site=collinsdictionary.com
+$discard,site=vocabulary.com
+$discard,site=yourdictionary.com
+
+$discard,site=thefreedictionary.com $discard,site=
+
+$discard,site=amazon.co.uk
+$discard,site=amazon.cn
 
 $discard,site=pornhub.com
-
-
-
-
-
-
-
+$discard,site=pornmat.com
