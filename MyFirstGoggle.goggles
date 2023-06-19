@@ -20,7 +20,6 @@ $discard,site=dictionary.com
 $discard,site=urbandictionary.com
 $discard,site=merriam-webster.com
 $discard,site=wikipedia.org
-$discard,site=wikipedia.org
 $discard,site=thesaurus.com
 $discard,site=wiktionary.org
 $discard,site=britannica.com
