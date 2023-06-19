@@ -20,7 +20,6 @@ $downrank=5,site=zihua.cn
 $discard,site=urbandictionary.com
 $discard,site=merriam-webster.com
 $discard,site=wikipedia.org
-$discard,site=wikipedia.org
 $discard,site=wiktionary.org
 $discard,site=britannica.com
 $discard,site=cambridge.org
