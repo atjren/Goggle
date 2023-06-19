@@ -16,9 +16,9 @@ $discard,site=youtube.com
 
 $downrank=5,site=google.com
 $downrank=5,site=billibilli.cn
-$downrank=5,site=zihua.cn
-$downrank=5,site=baidu.cn
-$discard,site=urbandictionary.com
+!$downrank=5,site=zihua.cn
+!$downrank=5,site=baidu.cn
+!$discard,site=urbandictionary.com
 $discard,site=merriam-webster.com
 $discard,site=wikipedia.org
 $discard,site=wiktionary.org
