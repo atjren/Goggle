@@ -3,14 +3,14 @@
 ! pubic: false
 ! author: hotairballoon
 $discard,site=ebay.com
-!$downrank=8,site=yahoo.com
-!$discard,site=pinterest.com
-!$discard,site=amazon.com
-!$discard,site=amazon.de
-!$discard,site=amazon.se
-!$discard,site=amazon.co.jp
-!$discard,site=amazon.ca
-!$discard,site=amazon.in
+$downrank=8,site=yahoo.com
+$discard,site=pinterest.com
+$discard,site=amazon.com
+$discard,site=amazon.de
+$discard,site=amazon.se
+$discard,site=amazon.co.jp
+$discard,site=amazon.ca
+$discard,site=amazon.in
 !$discard,site=youtube.com 
 
 
