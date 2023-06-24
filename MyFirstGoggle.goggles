@@ -7,6 +7,7 @@ $discard,site=ebay.com.au
 $downrank=8,site=yahoo.com
 $discard,site=pinterest.com
 $discard,site=stackexchange.com
+$discard,site=stackoverflow.com
 $discard,site=shopify.com
 ! Amazon
 $discard,site=amazon.com
@@ -33,6 +34,7 @@ $downrank=2,site=cnn.com
 $downrank=2,site=bbc.com
 $downrank=1,site=cnet.com
 $downrank=2,site=nymag.com
+$downrank=2,site=
 ! General
 $downrank=3,site=apple.com
 $downrank=5,site=google.com
@@ -60,6 +62,9 @@ $discard,site=oxfordlearnersdictionaries.com
 $discard,site=translator.com
 $discard,site=reverso.net
 $discard,site=definitions.net
+$discard,site=etymonline.com
+$discard,site=lexico.com
+$discard,site=grammarly.com
 
 
 $discard,site=amazon.co.uk
