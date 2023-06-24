@@ -9,6 +9,8 @@ $discard,site=pinterest.com
 $discard,site=stackexchange.com
 $discard,site=stackoverflow.com
 $discard,site=shopify.com
+$discard,site=quora.com
+
 ! Amazon
 $discard,site=amazon.com
 $discard,site=amazon.de
@@ -69,7 +71,19 @@ $discard,site=lexico.com
 !$discard,site=grammarly.com
 $discard,site=grammarly.com
 
-
+! Translations
+!$discard,site=wordreference.com
+$discard,site=spanishdict.com
+$discard,site=seslisozluk.net
+$discard,site=tureng.com
+$discard,site=interglot.com
+$discard,site=morfix.co.il
+$discard,site=online-translator.com
+$discard,site=bab.la
+$discard,site=engtoviet.com
+$discard,site=dict.leo.org
+$discard,site=sanakirja.org
+$discard,site=linguee.com
 
 
 $discard,site=pornhub.com
