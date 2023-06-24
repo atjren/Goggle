@@ -16,6 +16,8 @@ $discard,site=amazon.se
 $discard,site=amazon.co.jp
 $discard,site=amazon.ca
 $discard,site=amazon.in
+discard,site=amazon.co.uk
+$discard,site=amazon.cn
 
 $discard,site=youtube.com 
 ! Large internet stores
@@ -63,11 +65,9 @@ $discard,site=reverso.net
 $discard,site=definitions.net
 $discard,site=etymonline.com
 $discard,site=lexico.com
-$discard,site=grammarly.com
+!$discard,site=grammarly.com
 
 
-$discard,site=amazon.co.uk
-$discard,site=amazon.cn
 
 $discard,site=pornhub.com
 $discard,site=pornmat.com
