@@ -7,25 +7,32 @@ $discard,site=ebay.com.au
 $downrank=8,site=yahoo.com
 $discard,site=pinterest.com
 $discard,site=stackexchange.com
+! Amazon
 $discard,site=amazon.com
 $discard,site=amazon.de
 $discard,site=amazon.se
 $discard,site=amazon.co.jp
 $discard,site=amazon.ca
 $discard,site=amazon.in
+
 $discard,site=youtube.com 
+! Large internet stores
 $downrank=2,site=walmart.com
 $downrank=2,site=target.com
 $downrank=2,site=homedepot.com
 $downrank=2,site=lowes.com
+! News
 $downrank=3,site=nytimes.com
 $downrank=3,site=time.com
 $downrank=3,site=npr.org
 $downrank=2,site=imdb.com
+! General
+$downrank=3,site=apple.com
 $downrank=5,site=google.com
 $downrank=5,site=billibilli.cn
 $downrank=5,site=zihua.cn
 $downrank=5,site=baidu.cn
+! Dictionaries
 $discard,site=dictionary.com
 $discard,site=macmillandictionary.com
 $discard,site=urbandictionary.com
@@ -38,6 +45,7 @@ $discard,site=cambridge.org
 $discard,site=collinsdictionary.com
 $discard,site=vocabulary.com
 $discard,site=yourdictionary.com
+$discard,site=ldoceonline.com
 
 $discard,site=thefreedictionary.com
 
