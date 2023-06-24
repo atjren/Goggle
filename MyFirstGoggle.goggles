@@ -6,6 +6,7 @@ $discard,site=ebay.com
 $discard,site=ebay.com.au
 $downrank=8,site=yahoo.com
 $discard,site=pinterest.com
+$discard,site=stackexchange.com
 $discard,site=amazon.com
 $discard,site=amazon.de
 $discard,site=amazon.se
@@ -18,10 +19,15 @@ $downrank=2,site=target.com
 $downrank=2,site=homedepot.com
 $downrank=2,site=lowes.com
 $downrank=3,site=nytimes.com
+$downrank=3,site=time.com
+$downrank=3,site=npr.org
+$downrank=2,site=imdb.com
 $downrank=5,site=google.com
 $downrank=5,site=billibilli.cn
 $downrank=5,site=zihua.cn
 $downrank=5,site=baidu.cn
+$discard,site=dictionary.com
+$discard,site=macmillandictionary.com
 $discard,site=urbandictionary.com
 $discard,site=merriam-webster.com
 $discard,site=wikipedia.org
