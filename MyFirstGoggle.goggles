@@ -66,6 +66,8 @@ $discard,site=definitions.net
 $discard,site=etymonline.com
 $discard,site=lexico.com
 !$discard,site=grammarly.com
+$discard,site=grammarly.com
+
 
 
 
