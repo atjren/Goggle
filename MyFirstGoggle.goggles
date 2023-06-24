@@ -7,6 +7,7 @@ $discard,site=ebay.com.au
 $downrank=8,site=yahoo.com
 $discard,site=pinterest.com
 $discard,site=stackexchange.com
+$discard,site=shopify.com
 ! Amazon
 $discard,site=amazon.com
 $discard,site=amazon.de
@@ -26,9 +27,16 @@ $downrank=3,site=nytimes.com
 $downrank=3,site=time.com
 $downrank=3,site=npr.org
 $downrank=2,site=imdb.com
+$downrank=2,site=mirrot.co.uk
+$downrank=2,site=foxnewws.com
+$downrank=2,site=cnn.com
+$downrank=2,site=bbc.com
+$downrank=1,site=cnet.com
+$downrank=2,site=nymag.com
 ! General
 $downrank=3,site=apple.com
 $downrank=5,site=google.com
+$downrank=4,site=github.com
 $downrank=5,site=billibilli.cn
 $downrank=5,site=zihua.cn
 $downrank=5,site=baidu.cn
@@ -39,6 +47,7 @@ $discard,site=urbandictionary.com
 $discard,site=merriam-webster.com
 $discard,site=wikipedia.org
 $discard,site=wiktionary.org
+$discard,site=wikihow.life
 $discard,site=thesaurus.com
 $discard,site=britannica.com
 $discard,site=cambridge.org
@@ -46,8 +55,12 @@ $discard,site=collinsdictionary.com
 $discard,site=vocabulary.com
 $discard,site=yourdictionary.com
 $discard,site=ldoceonline.com
-
 $discard,site=thefreedictionary.com
+$discard,site=oxfordlearnersdictionaries.com
+$discard,site=translator.com
+$discard,site=reverso.net
+$discard,site=definitions.net
+
 
 $discard,site=amazon.co.uk
 $discard,site=amazon.cn
