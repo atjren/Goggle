@@ -34,7 +34,6 @@ $downrank=2,site=cnn.com
 $downrank=2,site=bbc.com
 $downrank=1,site=cnet.com
 $downrank=2,site=nymag.com
-$downrank=2,site=
 ! General
 $downrank=3,site=apple.com
 $downrank=5,site=google.com
