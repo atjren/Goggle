@@ -21,7 +21,7 @@ $discard,site=amazon.se
 $discard,site=amazon.co.jp
 $discard,site=amazon.ca
 $discard,site=amazon.in
-discard,site=amazon.co.uk
+$discard,site=amazon.co.uk
 $discard,site=amazon.cn
 
 $discard,site=youtube.com 
@@ -30,6 +30,7 @@ $downrank=2,site=walmart.com
 $downrank=2,site=target.com
 $downrank=2,site=homedepot.com
 $downrank=2,site=lowes.com
+
 ! News
 $downrank=3,site=nytimes.com
 $downrank=3,site=time.com
@@ -53,7 +54,9 @@ $downrank=5,site=zihua.cn
 $downrank=5,site=baidu.cn
 ! Dictionaries
 $discard,site=dictionary.com
+$discard,site=dictionary.net
 $discard,site=macmillandictionary.com
+$discard,site=macmillanthesaurus.com
 $discard,site=urbandictionary.com
 $discard,site=merriam-webster.com
 $discard,site=wikipedia.org
