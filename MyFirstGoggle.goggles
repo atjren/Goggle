@@ -6,10 +6,12 @@ $discard,site=ebay.com
 $discard,site=ebay.com.au
 $downrank=8,site=yahoo.com
 $discard,site=pinterest.com
+$discard,site=pinterest.co.mx
 $discard,site=stackexchange.com
 $discard,site=stackoverflow.com
 $discard,site=shopify.com
 $discard,site=quora.com
+$discard,site=etsy.com
 
 ! Amazon
 $discard,site=amazon.com
@@ -85,6 +87,12 @@ $discard,site=dict.leo.org
 $discard,site=sanakirja.org
 $discard,site=linguee.com
 
+! Blogs and social media
+$discard,site=tiktok.com
+$discard,site=instagram.com
+$discard,site=facebook.com
+$discard,site=twitter.com
+$discard,site=reddit.com
 
 $discard,site=pornhub.com
 $discard,site=pornmat.com
