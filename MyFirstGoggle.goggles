@@ -12,6 +12,7 @@ $discard,site=stackoverflow.com
 $discard,site=shopify.com
 $discard,site=quora.com
 $discard,site=etsy.com
+$discard,site=bestreviews.com
 
 ! Amazon
 $discard,site=amazon.com
@@ -32,6 +33,8 @@ $downrank=2,site=lowes.com
 ! News
 $downrank=3,site=nytimes.com
 $downrank=3,site=time.com
+$downrank=3,site=wsj.com
+$downrank=3,site=washingtonpost.com
 $downrank=3,site=npr.org
 $downrank=2,site=imdb.com
 $downrank=2,site=mirrot.co.uk
@@ -62,6 +65,7 @@ $discard,site=cambridge.org
 $discard,site=collinsdictionary.com
 $discard,site=vocabulary.com
 $discard,site=yourdictionary.com
+$discard,site=alphadictionary.com
 $discard,site=ldoceonline.com
 $discard,site=thefreedictionary.com
 $discard,site=oxfordlearnersdictionaries.com
@@ -69,9 +73,13 @@ $discard,site=translator.com
 $discard,site=reverso.net
 $discard,site=definitions.net
 $discard,site=etymonline.com
+$discard,site=worddb.com
 $discard,site=lexico.com
+$discard,site=wordunscrambler.net
 !$discard,site=grammarly.com
 $discard,site=grammarly.com
+$discard,site=nytcrosswordanswers.org
+$downrank=4,site=biologyonline.com
 
 ! Translations
 !$discard,site=wordreference.com
@@ -86,6 +94,9 @@ $discard,site=engtoviet.com
 $discard,site=dict.leo.org
 $discard,site=sanakirja.org
 $discard,site=linguee.com
+$discard,site=xamux.com
+$discard,site=teanglann.ie
+
 
 ! Blogs and social media
 $discard,site=tiktok.com
@@ -93,6 +104,8 @@ $discard,site=instagram.com
 $discard,site=facebook.com
 $discard,site=twitter.com
 $discard,site=reddit.com
+$discard,site=tumblr.com
+$discard,site=linkedin.com
 
 $discard,site=pornhub.com
 $discard,site=pornmat.com
