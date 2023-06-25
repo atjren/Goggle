@@ -30,6 +30,7 @@ $downrank=2,site=walmart.com
 $downrank=2,site=target.com
 $downrank=2,site=homedepot.com
 $downrank=2,site=lowes.com
+$discard,site=yelp.com
 
 ! News
 $downrank=3,site=nytimes.com
@@ -45,6 +46,7 @@ $downrank=2,site=bbc.com
 $downrank=1,site=cnet.com
 $downrank=2,site=nymag.com
 $downrank=2,site=reuters.com
+
 ! General
 $downrank=3,site=apple.com
 $downrank=5,site=google.com
@@ -52,6 +54,7 @@ $downrank=4,site=github.com
 $downrank=5,site=billibilli.cn
 $downrank=5,site=zihua.cn
 $downrank=5,site=baidu.cn
+
 ! Dictionaries
 $discard,site=dictionary.com
 $discard,site=dictionary.net
@@ -85,7 +88,8 @@ $discard,site=nytcrosswordanswers.org
 $downrank=4,site=biologyonline.com
 
 ! Translations
-!$discard,site=wordreference.com
+$discard,site=translate.com
+$discard,site=wordreference.com
 $discard,site=spanishdict.com
 $discard,site=seslisozluk.net
 $discard,site=tureng.com
@@ -99,6 +103,7 @@ $discard,site=sanakirja.org
 $discard,site=linguee.com
 $discard,site=xamux.com
 $discard,site=teanglann.ie
+$discard,site=indifferentlanguages.com
 
 
 ! Blogs and social media
