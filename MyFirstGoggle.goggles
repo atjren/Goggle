@@ -2,6 +2,7 @@
 ! description: Lower the prioity of eBay, amazon, Pinterest and Yahoo
 ! pubic: false
 ! author: hotairballoon
+
 $discard,site=ebay.com
 $discard,site=ebay.com.au
 $downrank=8,site=yahoo.com
