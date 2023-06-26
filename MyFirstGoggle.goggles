@@ -46,7 +46,7 @@ $downrank=2,site=bbc.com
 $downrank=1,site=cnet.com
 $downrank=2,site=nymag.com
 $downrank=2,site=reuters.com
-
+$downrank=2,site=timesofindia.indiatimes.com
 ! General
 $downrank=3,site=apple.com
 $downrank=5,site=google.com
@@ -55,6 +55,12 @@ $downrank=5,site=billibilli.cn
 $downrank=5,site=zihua.cn
 $downrank=5,site=baidu.cn
 
+! Wikipedia
+$discard,site=wikipedia.org
+$discard,site=wiktionary.org
+$discard,site=wikihow.life
+$discard,site=wikihow.org
+
 ! Dictionaries
 $discard,site=dictionary.com
 $discard,site=dictionary.net
@@ -62,9 +68,6 @@ $discard,site=macmillandictionary.com
 $discard,site=macmillanthesaurus.com
 $discard,site=urbandictionary.com
 $discard,site=merriam-webster.com
-$discard,site=wikipedia.org
-$discard,site=wiktionary.org
-$discard,site=wikihow.life
 $discard,site=thesaurus.com
 $discard,site=britannica.com
 $discard,site=cambridge.org
@@ -75,7 +78,7 @@ $discard,site=alphadictionary.com
 $discard,site=ldoceonline.com
 $discard,site=thefreedictionary.com
 $discard,site=oxfordlearnersdictionaries.com
-$discard,site=translator.com
+$discard,site=dict.cc
 $discard,site=reverso.net
 $discard,site=definitions.net
 $discard,site=etymonline.com
@@ -85,10 +88,12 @@ $discard,site=wordunscrambler.net
 !$discard,site=grammarly.com
 $discard,site=grammarly.com
 $discard,site=nytcrosswordanswers.org
+$discard,site=nytminicrossword.com
 $downrank=4,site=biologyonline.com
 
 ! Translations
 $discard,site=translate.com
+$discard,site=translator.com
 $discard,site=wordreference.com
 $discard,site=spanishdict.com
 $discard,site=seslisozluk.net
@@ -103,6 +108,7 @@ $discard,site=sanakirja.org
 $discard,site=linguee.com
 $discard,site=xamux.com
 $discard,site=teanglann.ie
+$discard,site=pons.com
 $discard,site=indifferentlanguages.com
 
 
