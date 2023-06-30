@@ -56,6 +56,7 @@ $downrank=2,site=cbsnews.com
 $downrank=2,site=forbes.com
 $downrank=2,site=nbcnewyork.com
 $downrank=2,site=actionnewsnow.com
+$downrank=2,site=businesswire.com
 
 ! General
 $downrank=3,site=apple.com
@@ -141,6 +142,7 @@ $discard,site=tangorin.con
 $discard,site=xamux.com
 $discard,site=teanglann.ie
 $discard,site=pons.com
+$discard,site=tr-ex.me
 $discard,site=indifferentlanguages.com
 
 
@@ -154,15 +156,15 @@ $discard,site=tumblr.com
 $discard,site=linkedin.com
 
 ! Music and book sites
-$downrank=1,site=goodreads.com
-$downrank=1,site=spotify.com
-$downrank=1,site=lyrics.com
-$downrank=1,site=beatport.com
-$downrank=1,site=soundcloud.com
-$downrank=1,site=genius.com
-$downrank=1,site=allmusic.com
-$downrank=1,site=discogs.com
-$downrank=1,site=fanfiction.net
+$downrank=2,site=goodreads.com
+$downrank=2,site=spotify.com
+$downrank=2,site=lyrics.com
+$downrank=2,site=beatport.com
+$downrank=2,site=soundcloud.com
+$downrank=2,site=genius.com
+$downrank=2,site=allmusic.com
+$downrank=2,site=discogs.com
+$downrank=2,site=fanfiction.net
 
 
 ! Images alone
