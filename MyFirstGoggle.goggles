@@ -115,7 +115,7 @@ $discard,site=crosswordsolver.org
 $discard,site=crosswordeg.com
 
 $downrank=4,site=biologyonline.com
-$discard,site=weblio.jo
+$discard,site=weblio.jp
 
 $discard,site=mapquest.com
 
@@ -124,7 +124,7 @@ $discard,site=translate.com
 $discard,site=translator.com
 $discard,site=wordreference.com
 $discard,site=spanishdict.com
-$discard,site=nglish,com
+$discard,site=nglish.com ! sic
 $discard,site=seslisozluk.net
 $discard,site=tureng.com
 $discard,site=interglot.com
