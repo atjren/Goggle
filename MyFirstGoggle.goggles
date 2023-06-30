@@ -71,6 +71,7 @@ $discard,site=wiktionary.org
 $discard,site=wikihow.life
 $discard,site=wikihow.org
 $discard,site=wikiwand.com
+$discard,site=wikidata.org
 
 ! Dictionaries
 $discard,site=dictionary.com
@@ -101,15 +102,22 @@ $discard,site=wordhippo.com
 $discard,site=vocabulary-vocabulary.com
 $discard,site=mammothmemory.net
 $discard,site=lexico.com
+$discard,site=ikonet.com
 $discard,site=wordunscrambler.net
 !$discard,site=grammarly.com
 $discard,site=grammarly.com
-$discard,site=englih-grammar-lessons.com
+$discard,site=english-grammar-lessons.com
+
+! Crossword clues and answers
 $discard,site=nytcrosswordanswers.org
 $discard,site=nytminicrossword.com
 $discard,site=crosswordsolver.org
+$discard,site=crosswordeg.com
+
 $downrank=4,site=biologyonline.com
 $discard,site=weblio.jo
+
+$discard,site=mapquest.com
 
 ! Translations
 $discard,site=translate.com
@@ -143,10 +151,42 @@ $discard,site=reddit.com
 $discard,site=tumblr.com
 $discard,site=linkedin.com
 
-! Some sites that appear way to often
+! Music and book sites
 $downrank=1,site=goodreads.com
 $downrank=1,site=spotify.com
+$downrank=1,site=lyrics.com
+$downrank=1,site=beatport.com
+$downrank=1,site=soundcloud.com
+$downrank=1,site=genius.com
+$downrank=1,site=allmusic.com
+$downrank=1,site=discogs.com
+$downrank=1,site=fanfiction.net
 
 
+! Images alone
+$discard,site=gettyimages.com
+$discard,site=gettyimages.co.nz
+$discard,site=gettyimages.in
+$discard,site=flickr.com
+$discard,site=stock.adobe.com
+$discard,site=dreamstime.com
+$discard,site=alamy.com
+$discard,site=istockphoto.com
+$discard,site=shutterstock.com
+
+! Pornography
 $discard,site=pornhub.com
 $discard,site=pornmat.com
+$discard,site=xnxx.com
+$discard,site=porncore.net
+$discard,site=xgroovy.com
+$discard,site=xxxbunker.com
+$discard,site=kompoz2.com
+$discard,site=rule34.com
+$discard,site=e-hentai.com
+$discard,site=kingxxx.pro
+$discard,site=sexcelebrity.net
+$discard,site=xvideos.com
+$discard,site=porndude.me
+$discard,site=mypornvideo.fun
+
