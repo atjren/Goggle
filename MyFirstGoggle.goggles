@@ -5,6 +5,7 @@
 
 $discard,site=ebay.com
 $discard,site=ebay.com.au
+$discard,site=ebay.co.uk
 $downrank=8,site=yahoo.com
 $discard,site=pinterest.com
 $discard,site=pinterest.co.uk
@@ -26,6 +27,8 @@ $discard,site=amazon.ca
 $discard,site=amazon.in
 $discard,site=amazon.co.uk
 $discard,site=amazon.cn
+$discard,site=amazon.com.au
+
 
 $discard,site=youtube.com 
 ! Large internet stores
@@ -42,10 +45,12 @@ $downrank=3,site=wsj.com
 $downrank=3,site=washingtonpost.com
 $downrank=3,site=npr.org
 $downrank=2,site=imdb.com
-$downrank=2,site=mirrot.co.uk
-$downrank=2,site=foxnewws.com
+$downrank=2,site=mirror.co.uk
+$downrank=2,site=foxnews.com
+$downrank=2,site=foxbusiness.com
 $downrank=2,site=cnn.com
 $downrank=2,site=bbc.com
+$downrank=2,site=bbc.co.uk
 $downrank=1,site=cnet.com
 $downrank=2,site=nymag.com
 $downrank=2,site=reuters.com
@@ -53,10 +58,12 @@ $downrank=2,site=timesofindia.indiatimes.com
 $downrank=2,site=theguardian.com
 $downrank=2,site=msn.com
 $downrank=2,site=cbsnews.com
+$downrank=2,site=abcnews.go.com
 $downrank=2,site=forbes.com
 $downrank=2,site=nbcnewyork.com
 $downrank=2,site=actionnewsnow.com
 $downrank=2,site=businesswire.com
+$downrank=2,site=buzzfeed.com
 
 ! General
 $downrank=3,site=apple.com
@@ -83,6 +90,7 @@ $discard,site=urbandictionary.com
 $discard,site=merriam-webster.com
 $discard,site=thesaurus.com
 $discard,site=freethesaurus.com
+$discard,site=powerthesaurus.com
 $discard,site=britannica.com
 $discard,site=cambridge.org
 $discard,site=collinsdictionary.com
@@ -138,12 +146,14 @@ $discard,site=engtoviet.com
 $discard,site=dict.leo.org
 $discard,site=sanakirja.org
 $discard,site=linguee.com
-$discard,site=tangorin.con
+$discard,site=tangorin.com
 $discard,site=xamux.com
 $discard,site=teanglann.ie
 $discard,site=pons.com
 $discard,site=tr-ex.me
 $discard,site=indifferentlanguages.com
+$discard,site=arabdict.com
+$discard,site=mijnwoordboek.nl
 
 
 ! Blogs and social media
@@ -165,18 +175,29 @@ $downrank=2,site=genius.com
 $downrank=2,site=allmusic.com
 $downrank=2,site=discogs.com
 $downrank=2,site=fanfiction.net
-
+$downrank=2,site=pandora.com
+$downrank=2,site=sonichits.com
+$downrank=2,site=songsterr.com
+$downrank=2,site=letras.mus.br
+$downrank=2,site=songtell.com
+$downrank=2,site=sputnikmusic.com
 
 ! Images alone
 $discard,site=gettyimages.com
 $discard,site=gettyimages.co.nz
 $discard,site=gettyimages.in
+$discard,site=gettyimages.ch
 $discard,site=flickr.com
 $discard,site=stock.adobe.com
 $discard,site=dreamstime.com
 $discard,site=alamy.com
+$discard,site=unsplash.com
 $discard,site=istockphoto.com
 $discard,site=shutterstock.com
+
+! Movie reviews
+$discard,site=imdb.com
+$discard,site=rottentomatos.com
 
 ! Pornography
 $discard,site=pornhub.com
