@@ -7,6 +7,8 @@ $discard,site=ebay.com
 $discard,site=ebay.com.au
 $downrank=8,site=yahoo.com
 $discard,site=pinterest.com
+$discard,site=pinterest.co.uk
+$discard,site=pinterest.com.au
 $discard,site=pinterest.co.mx
 $discard,site=stackexchange.com
 $discard,site=stackoverflow.com
@@ -68,6 +70,7 @@ $discard,site=wikipedia.org
 $discard,site=wiktionary.org
 $discard,site=wikihow.life
 $discard,site=wikihow.org
+$discard,site=wikiwand.com
 
 ! Dictionaries
 $discard,site=dictionary.com
@@ -77,12 +80,14 @@ $discard,site=macmillanthesaurus.com
 $discard,site=urbandictionary.com
 $discard,site=merriam-webster.com
 $discard,site=thesaurus.com
+$discard,site=freethesaurus.com
 $discard,site=britannica.com
 $discard,site=cambridge.org
 $discard,site=collinsdictionary.com
 $discard,site=vocabulary.com
 $discard,site=yourdictionary.com
 $discard,site=alphadictionary.com
+$discard,site=cdict.net
 $discard,site=ldoceonline.com
 $discard,site=thefreedictionary.com
 $discard,site=oxfordlearnersdictionaries.com
@@ -91,19 +96,27 @@ $discard,site=reverso.net
 $discard,site=definitions.net
 $discard,site=etymonline.com
 $discard,site=worddb.com
+$discard,site=wordnic.com
+$discard,site=wordhippo.com
+$discard,site=vocabulary-vocabulary.com
+$discard,site=mammothmemory.net
 $discard,site=lexico.com
 $discard,site=wordunscrambler.net
 !$discard,site=grammarly.com
 $discard,site=grammarly.com
+$discard,site=englih-grammar-lessons.com
 $discard,site=nytcrosswordanswers.org
 $discard,site=nytminicrossword.com
+$discard,site=crosswordsolver.org
 $downrank=4,site=biologyonline.com
+$discard,site=weblio.jo
 
 ! Translations
 $discard,site=translate.com
 $discard,site=translator.com
 $discard,site=wordreference.com
 $discard,site=spanishdict.com
+$discard,site=nglish,com
 $discard,site=seslisozluk.net
 $discard,site=tureng.com
 $discard,site=interglot.com
@@ -114,6 +127,7 @@ $discard,site=engtoviet.com
 $discard,site=dict.leo.org
 $discard,site=sanakirja.org
 $discard,site=linguee.com
+$discard,site=tangorin.con
 $discard,site=xamux.com
 $discard,site=teanglann.ie
 $discard,site=pons.com
@@ -128,6 +142,11 @@ $discard,site=twitter.com
 $discard,site=reddit.com
 $discard,site=tumblr.com
 $discard,site=linkedin.com
+
+! Some sites that appear way to often
+$downrank=1,site=goodreads.com
+$downrank=1,site=spotify.com
+
 
 $discard,site=pornhub.com
 $discard,site=pornmat.com
