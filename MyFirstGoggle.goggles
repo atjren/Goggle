@@ -40,6 +40,7 @@ $discard,site=yelp.com
 
 ! News
 $downrank=3,site=nytimes.com
+$downrank=2,site=nypost.com
 $downrank=3,site=time.com
 $downrank=3,site=wsj.com
 $downrank=3,site=washingtonpost.com
@@ -54,6 +55,7 @@ $downrank=2,site=bbc.co.uk
 $downrank=1,site=cnet.com
 $downrank=2,site=nymag.com
 $downrank=2,site=reuters.com
+$downrank=2,site=economictimes.indiatimes.com
 $downrank=2,site=timesofindia.indiatimes.com
 $downrank=2,site=theguardian.com
 $downrank=2,site=msn.com
@@ -64,6 +66,15 @@ $downrank=2,site=nbcnewyork.com
 $downrank=2,site=actionnewsnow.com
 $downrank=2,site=businesswire.com
 $downrank=2,site=buzzfeed.com
+$discard,site=thestarnews.com
+$downrank=2,site=cnbc.com
+$downrank=2,site=examinerlive.co.uk
+$downrank=2,site=fool.com
+$downrank=2,site=buzzfeed.com
+$downrank=2,site=usatoday.com
+$downrank=2,site=techcrunch.com
+$downrank=2,site=prnewswire.com
+
 
 ! General
 $downrank=3,site=apple.com
@@ -78,6 +89,7 @@ $discard,site=wikipedia.org
 $discard,site=wiktionary.org
 $discard,site=wikihow.life
 $discard,site=wikihow.org
+$discard,site=wikihow.com
 $discard,site=wikiwand.com
 $discard,site=wikidata.org
 
@@ -89,6 +101,7 @@ $discard,site=macmillanthesaurus.com
 $discard,site=urbandictionary.com
 $discard,site=merriam-webster.com
 $discard,site=thesaurus.com
+$discard,site=thesaurus.plus
 $discard,site=freethesaurus.com
 $discard,site=powerthesaurus.com
 $discard,site=britannica.com
@@ -102,11 +115,13 @@ $discard,site=ldoceonline.com
 $discard,site=thefreedictionary.com
 $discard,site=oxfordlearnersdictionaries.com
 $discard,site=dict.cc
+$discard,site=contemporary_en.en-academic.com
 $discard,site=reverso.net
 $discard,site=definitions.net
 $discard,site=etymonline.com
+$discard,site=younglish.com
 $discard,site=worddb.com
-$discard,site=wordnic.com
+$discard,site=wordnik.com
 $discard,site=wordhippo.com
 $discard,site=vocabulary-vocabulary.com
 $discard,site=mammothmemory.net
@@ -119,9 +134,16 @@ $discard,site=english-grammar-lessons.com
 
 ! Crossword clues and answers
 $discard,site=nytcrosswordanswers.org
+$discard,site=latimescrosswordanswers.org
 $discard,site=nytminicrossword.com
 $discard,site=crosswordsolver.org
 $discard,site=crosswordeg.com
+$discard,site=wordplays.com
+$discard,site=crosswordsolver.com
+$discard,site=crossword-solver.io
+$discard,site=crosswordheaven.com
+$discard,site=crosswordtracker.com
+$discard,site=wordgrabber.com
 
 $downrank=4,site=biologyonline.com
 $discard,site=weblio.jp
@@ -154,6 +176,8 @@ $discard,site=tr-ex.me
 $discard,site=indifferentlanguages.com
 $discard,site=arabdict.com
 $discard,site=mijnwoordboek.nl
+$discard,site=almaany.com
+$discard,site=samanyagyan.com
 
 
 ! Blogs and social media
@@ -167,6 +191,7 @@ $discard,site=linkedin.com
 
 ! Music and book sites
 $downrank=2,site=goodreads.com
+$downrank=2,site=scribd.com
 $downrank=2,site=spotify.com
 $downrank=2,site=lyrics.com
 $downrank=2,site=beatport.com
@@ -181,6 +206,16 @@ $downrank=2,site=songsterr.com
 $downrank=2,site=letras.mus.br
 $downrank=2,site=songtell.com
 $downrank=2,site=sputnikmusic.com
+$downrank=2,site=karaoke-lyrics.net
+$downrank=2,site=azlyrics.net
+$downrank=2,site=bandcamp.com
+
+
+! Rhymes
+$discard,site=rhymes.com
+$discard,site=words-that-rhyme.com
+$discard,site=rappad.co
+
 
 ! Images alone
 $discard,site=gettyimages.com
@@ -194,6 +229,7 @@ $discard,site=alamy.com
 $discard,site=unsplash.com
 $discard,site=istockphoto.com
 $discard,site=shutterstock.com
+$discard,site=123rf.com
 
 ! Movie reviews
 $discard,site=imdb.com
